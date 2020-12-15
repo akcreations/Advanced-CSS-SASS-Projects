@@ -1,4 +1,4 @@
 # CSS Projects
 - Natros uses pure float approach
-- Trillo uses flexbox approac
--  Upcoming CSS project
+- Trillo uses flexbox approach
+-  Upcoming CSS grid
